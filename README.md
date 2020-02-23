@@ -1,13 +1,19 @@
 # Team ZiGe-JaHa #
 
-# Project/Application Description
-A platform that aims to connect travelers to our local tribe and communities by showcasing their cultural treasures, wonders and never before seen sanctuaries.
-
 # Members #
 * Gerard Vincent Tormo
 * John Zidrex Andag
 * Harrold De Asis
 * Jayven Buyco
+
+# Project/Application Description
+A platform that aims to connect travelers to our local tribe and communities by showcasing their cultural treasures, wonders and never before seen sanctuaries.
+
+# Installation Guide
+  
+* To install:
+    * Using Git: clone the project/app by copying # this address : 
+
 
 # Languages/Framework used: #
 
@@ -39,3 +45,5 @@ A platform that aims to connect travelers to our local tribe and communities by 
 * https://www.factretriever.com/philippines-facts 
 
 * https://l.facebook.com/l.php?u=https%3A%2F%2Fthegossagency.com%2F2016%2F03%2F03%2Fthe-real-impact-of-a-cultural-tourism-strategy%2F%3Ffbclid%3DIwAR1mt9E2vua_laWGKHcgPWon8LJxP7uCQXzw0J8Jlo8MHr74am7RQVJx9cY&h=AT2vTweeRUMW4c1Swii6ucLsZgJVyB2IpFmGoCzKFMeWnvDn60UqaJW4gMUzW6rdn0ws0byXCX6Tw1LirONUoyd_ZT6PYnk7QAqhiNUXRyx62nSYIBMNFRTgrKE521YuT_uKkA
+
+* https://l.facebook.com/l.php?u=https%3A%2F%2Ftraveltips.usatoday.com%2Fpositive-negative-effects-tourism-63336.html%3Ffbclid%3DIwAR1UnzSpDtnqoPHdRieoaqTO6_k8xqIeJIlqPIz_j385WgmsJfEaDEgMV9I&h=AT2vTweeRUMW4c1Swii6ucLsZgJVyB2IpFmGoCzKFMeWnvDn60UqaJW4gMUzW6rdn0ws0byXCX6Tw1LirONUoyd_ZT6PYnk7QAqhiNUXRyx62nSYIBMNFRTgrKE521YuT_uKkA
