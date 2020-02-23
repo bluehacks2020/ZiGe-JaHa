@@ -3,12 +3,12 @@ A platform that aims to connect travelers to our local tribe and communities by 
 
 Languages/Framework used:
 
-*PHP*
+*#PHP#*
 
-jQuery
+*jQuery*
 
-Bootstrap
+*Bootstrap*
 
-JavaScript
+*JavaScript*
 
-CodeIgniter
+*CodeIgniter*
