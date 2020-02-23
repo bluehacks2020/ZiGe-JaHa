@@ -35,3 +35,5 @@ A platform that aims to connect travelers to our local tribe and communities by 
 * w3schools.com
 
 * https://www.tutorialspoint.com/codeigniter/codeigniter_configuration.htm
+
+* https://www.factretriever.com/philippines-facts 
