@@ -31,3 +31,7 @@ A platform that aims to connect travelers to our local tribe and communities by 
 * https://l.facebook.com/l.php?u=https%3A%2F%2Fcor.europa.eu%2Fen%2Fengage%2Fstudies%2FDocuments%2Fcultural-development-strategies%2Fcultural-development-strategies.pdf%3Ffbclid%3DIwAR2lo6vAh8P9diYD-1lswLRUacL2q9-vvQ9TpmUw3hUeLqYB5ED36BuYC2c&h=AT2vTweeRUMW4c1Swii6ucLsZgJVyB2IpFmGoCzKFMeWnvDn60UqaJW4gMUzW6rdn0ws0byXCX6Tw1LirONUoyd_ZT6PYnk7QAqhiNUXRyx62nSYIBMNFRTgrKE521YuT_uKkA
 
 * https://l.facebook.com/l.php?u=https%3A%2F%2Fncca.gov.ph%2Fabout-culture-and-arts%2Fin-focus%2Fculture-in-development-planning%2F%3Ffbclid%3DIwAR1_po3mPfxSNdvL6reGd6DxDQ01mvHUeWzi_Mo0RDTR93AePemBKJQRfRg&h=AT2vTweeRUMW4c1Swii6ucLsZgJVyB2IpFmGoCzKFMeWnvDn60UqaJW4gMUzW6rdn0ws0byXCX6Tw1LirONUoyd_ZT6PYnk7QAqhiNUXRyx62nSYIBMNFRTgrKE521YuT_uKkA
+
+* w3schools.com
+
+* https://www.tutorialspoint.com/codeigniter/codeigniter_configuration.htm
