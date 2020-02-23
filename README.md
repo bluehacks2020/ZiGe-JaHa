@@ -13,7 +13,7 @@ A platform that aims to connect travelers to our local tribe and communities by 
   
 * To install:
     * Using Git: clone the project/app by copying this address : https://github.com/bluehacks2020/ZiGe-JaHa.git **
-    * **To execute: type in git console: git clone "url-of-the-repository"
+      * **To execute: type in git console: git clone "url-of-the-repository"
     
     
 
