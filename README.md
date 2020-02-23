@@ -37,3 +37,5 @@ A platform that aims to connect travelers to our local tribe and communities by 
 * https://www.tutorialspoint.com/codeigniter/codeigniter_configuration.htm
 
 * https://www.factretriever.com/philippines-facts 
+
+* https://l.facebook.com/l.php?u=https%3A%2F%2Fthegossagency.com%2F2016%2F03%2F03%2Fthe-real-impact-of-a-cultural-tourism-strategy%2F%3Ffbclid%3DIwAR1mt9E2vua_laWGKHcgPWon8LJxP7uCQXzw0J8Jlo8MHr74am7RQVJx9cY&h=AT2vTweeRUMW4c1Swii6ucLsZgJVyB2IpFmGoCzKFMeWnvDn60UqaJW4gMUzW6rdn0ws0byXCX6Tw1LirONUoyd_ZT6PYnk7QAqhiNUXRyx62nSYIBMNFRTgrKE521YuT_uKkA
