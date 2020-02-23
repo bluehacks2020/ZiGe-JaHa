@@ -4,7 +4,11 @@ A platform that aims to connect travelers to our local tribe and communities by 
 Languages/Framework used:
 
 *PHP
+
 jQuery
+
 Bootstrap
+
 JavaScript
+
 CodeIgniter*
