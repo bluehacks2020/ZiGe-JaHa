@@ -12,11 +12,14 @@ A platform that aims to connect travelers to our local tribe and communities by 
 # Installation Guide
   
 * To install:
-    * Using Git: clone the project/app by copying this address : https://github.com/bluehacks2020/ZiGe-JaHa.git **
-      * **To execute: type in git console: git clone "url-of-the-repository"
-    
-    
-
+    * To download the project/app:
+      * * Using Git: clone the project/app by copying this address : https://github.com/bluehacks2020/ZiGe-JaHa.git **
+        * **To execute: type in git console: git clone "url-of-the-repository"
+      * Using any browsing software: go to the site as stated above, click clone or download, download zip
+    * To install: 
+      * simply copy the whole project folder then paste it inside htdocs of xampp
+    * To execute:
+      * type in "localhost/ZIGEJAHA/" in the address bar
 
 # Languages/Framework used: #
 
