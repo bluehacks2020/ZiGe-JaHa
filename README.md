@@ -19,7 +19,7 @@ A platform that aims to connect travelers to our local tribe and communities by 
     * To install: 
       * simply copy the whole project folder then paste it inside htdocs of xampp
     * To execute:
-      * type in # "localhost/ZIGEJAHA/" in the address bar
+      * type in "localhost/ZIGEJAHA/" in the address bar
 
 # Languages/Framework used: #
 
